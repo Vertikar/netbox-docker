@@ -2,7 +2,7 @@ version: '3'
 services:
     netbox:
         build: .
-        image: digitalocean/netbox:v2.0.1
+        image: digitalocean/netbox:v2.0.7
         depends_on:
         - postgres
         env_file: netbox.env
