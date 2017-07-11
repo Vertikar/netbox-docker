@@ -1,5 +1,4 @@
-![travis-ci](https://travis-ci.org/Vertikar/netbox-docker.svg?branch=master)
-# netbox-docker
+[![Build Status](https://travis-ci.org/Vertikar/netbox-docker.svg?branch=master)](https://travis-ci.org/Vertikar/netbox-docker)# netbox-docker
 
 This repository houses the components needed to build NetBox as a Docker container. It is a work in progress; please submit a bug report for any issues you encounter.
 
