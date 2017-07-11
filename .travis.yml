@@ -21,7 +21,8 @@ before_install:
   # do not need the following steps.
   - docker-compose --version
   
-  # Check docker version
+
+  # Print out current docker version
   - docker version
 
   # As of the writing of this script Travis has docker-compose v1.4.2, we need
