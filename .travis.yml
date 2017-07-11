@@ -39,7 +39,7 @@ before_install:
 
   
   
-  script:
+script:
   # Setup your application stack. You may need to tweak these commands if you
   # doing out-of-the-ordinary docker-compose builds.
   - docker-compose up -d --build
